@@ -5,7 +5,7 @@ Pygal Bar Chart: Python, Flask, pygal, HTML, Jinja2, decorator
 
 ## Virtual Environment
 
-This app was originally developed in a Python virtual environment, so this repo can basically be dropped into a virtual environment.
+This app was originally developed in a Python virtual environment. After Flask and Pygal are installed, this repo can basically be dropped into a virtual environment.
 
 ## Run the Application
 
